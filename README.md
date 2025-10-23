@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚘 Tesla Cinematic Experience</h1>
   <p>Explore Tesla vehicles through a cinematic web experience with parallax animations and interactive elements.</p>
-  <a href="https://hamiparsa.github.io/Tesla/">
+  <a href="https://honestdev125.github.io/Tesla/">
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -69,7 +69,7 @@ This project demonstrates **interactive front-end animations**, **responsive des
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Creating cinematic and interactive web experiences  
 
 ---

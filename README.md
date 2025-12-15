@@ -69,7 +69,7 @@ This project demonstrates **interactive front-end animations**, **responsive des
 
 ## 👨‍💻 Author
 
-**Developed by:** [Niku Namada](https://github.com/honestdev125)  
+**Developed by:** [Toma Kawaguchi](https://github.com/toma-work125)  
 💬 Front-End Developer | Creating cinematic and interactive web experiences  
 
 ---
